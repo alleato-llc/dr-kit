@@ -1,0 +1,24 @@
+{
+  "originHash" : "d2903426e9f2182220cfddda0e7a93583aacc254458d969b729d2d805d656f54",
+  "pins" : [
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser.git",
+      "state" : {
+        "revision" : "c5d11a805e765f52ba34ec7284bd4fcd6ba68615",
+        "version" : "1.7.0"
+      }
+    },
+    {
+      "identity" : "tint",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:alleato-llc/tint.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "9e3c752075f7fa4d8c764c11dc47adc7e4540c2a"
+      }
+    }
+  ],
+  "version" : 3
+}
